@@ -7,9 +7,6 @@
     "npm": ">=7.0.0",
     "node": ">=16.0.0"
   },
-  "scripts": {
-    "start": "node index.js"
-  },
   "keywords": [
     "fivem",
     "website",
@@ -17,7 +14,7 @@
     "gta",
     "discord"
   ],
-  "author": "",
+  "author": "Nash",
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "@tomphttp/bare-server-node": "^1.2.5",
