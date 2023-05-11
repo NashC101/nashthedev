@@ -1,0 +1,6 @@
+
+  services:
+  - type: web
+    name: nashthedev
+    env: docker
+    plan: free
